@@ -1,5 +1,4 @@
-https://bit.ly/slfuel
-http://fuelinfo.epizy.com/
+http://mathesh.epizy.com/projects/fuelinfo/
 
 
 User account
